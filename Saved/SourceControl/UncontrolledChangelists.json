@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Material/Functions/MF_Tiling.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Cylinder.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Sphere.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/ShortWall.uasset"
+			]
+		}
+	]
+}
