@@ -1,0 +1,7 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 FRDGBuilder_Execute
+	01 FilterReflectionEnvironment
+	02 ComputeDiffuseIrradiance
+	03 Coefficient 7
+	04 AccumulateDiffuseIrradiance
